@@ -83,6 +83,11 @@ python main.py -d /path/to/your/heic/directory
 python main.py -q 90 -w 8 -r --resize 1920x1080 -o /custom/output/path /path/to/your/heic/directory
 ```
 
+### Syntax for Windows users:
+```bash
+python main.py 'C:\Users\user\folder\folder'
+```
+
 ## Command-Line Options
 
 | Option | Description |
